@@ -1,0 +1,1186 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4475 6038 4800 6038
+Wire Wire Line
+	4800 6337 4475 6337
+Wire Wire Line
+	4475 6337 4475 6238
+Wire Wire Line
+	2875 5938 3275 5938
+Wire Wire Line
+	3275 6138 3175 6138
+Wire Wire Line
+	3175 6575 3175 6437
+Text Label 3175 6575 0    10   ~ 0
+GND
+Wire Wire Line
+	7900 3238 7900 3100
+Text Label 7900 3238 0    10   ~ 0
+GND
+Wire Wire Line
+	9500 3100 9500 3300
+Text Label 9500 3100 0    10   ~ 0
+GND
+Wire Wire Line
+	8900 4900 8900 4800
+Wire Wire Line
+	8900 4800 8400 4800
+Wire Wire Line
+	8300 4800 8900 4800
+Wire Wire Line
+	8900 4800 8900 4500
+Wire Wire Line
+	8300 4500 8900 4500
+Connection ~ 8900 4800
+Text Label 8900 4900 0    10   ~ 0
+GND
+Wire Wire Line
+	8400 2425 8400 2288
+Text Label 8400 2425 0    10   ~ 0
+GND
+Wire Wire Line
+	7800 2200 7800 2300
+Text Label 7800 2200 0    10   ~ 0
+GND
+Wire Wire Line
+	9037 2300 9037 2388
+Text Label 9037 2300 0    10   ~ 0
+GND
+Wire Wire Line
+	7287 2413 7200 2413
+Wire Wire Line
+	7200 2413 7200 2500
+Wire Wire Line
+	2900 3750 2713 3750
+Wire Wire Line
+	2713 3750 2713 2413
+Wire Wire Line
+	2713 2413 3625 2413
+Wire Wire Line
+	3625 2413 7200 2413
+Wire Wire Line
+	1475 3663 1475 3825
+Wire Wire Line
+	1475 3825 1725 3825
+Wire Wire Line
+	1725 3825 2000 3825
+Wire Wire Line
+	2000 3738 2000 3825
+Wire Wire Line
+	2000 3825 2600 3825
+Wire Wire Line
+	2600 3825 2600 3750
+Wire Wire Line
+	2600 3750 2713 3750
+Wire Wire Line
+	3225 1863 3625 1863
+Wire Wire Line
+	3625 1863 3625 1963
+Wire Wire Line
+	3625 1963 3625 2413
+Wire Wire Line
+	3213 1963 3625 1963
+Wire Wire Line
+	1725 3738 1725 3825
+Connection ~ 7200 2413
+Connection ~ 2000 3825
+Connection ~ 2713 3750
+Connection ~ 3625 2413
+Connection ~ 3625 1963
+Connection ~ 1725 3825
+Text Label 7287 2413 0    10   ~ 0
+GND
+Wire Wire Line
+	2200 5138 2475 5138
+Wire Wire Line
+	2475 5138 2475 6337
+Text Label 2200 5138 0    10   ~ 0
+GND
+Wire Wire Line
+	6400 1900 6200 1900
+Text Label 6400 1900 0    10   ~ 0
+GND
+Wire Wire Line
+	2875 6238 2875 6437
+Text Label 2875 6238 0    10   ~ 0
+VCC
+Wire Wire Line
+	9050 1900 9337 1900
+Wire Wire Line
+	9050 1900 9037 2000
+Wire Wire Line
+	8812 1900 9050 1900
+Connection ~ 9050 1900
+Text Label 9050 1900 0    10   ~ 0
+VCC
+Wire Wire Line
+	3925 1763 4463 1763
+Text Label 3925 1763 0    10   ~ 0
+VCC
+Wire Wire Line
+	5250 3400 5250 3650
+Text Label 5250 3400 0    10   ~ 0
+VCC
+Wire Wire Line
+	2000 2938 1725 2938
+Wire Wire Line
+	2000 2938 2200 2938
+Wire Wire Line
+	2200 2938 2600 2938
+Wire Wire Line
+	2900 3650 2600 3650
+Wire Wire Line
+	2600 2938 2600 3650
+Wire Wire Line
+	1475 3063 1475 2938
+Wire Wire Line
+	1475 2938 1725 2938
+Wire Wire Line
+	2200 2500 2200 2938
+Connection ~ 1725 2938
+Connection ~ 2000 2938
+Connection ~ 2200 2938
+Text Label 2000 2938 0    10   ~ 0
+VCC
+Wire Wire Line
+	7912 4200 8075 4263
+Wire Wire Line
+	8075 4488 8075 4263
+Connection ~ 8075 4263
+Text Label 7912 4200 0    10   ~ 0
+VCC
+Wire Wire Line
+	9737 5200 9900 5200
+Wire Wire Line
+	9900 5200 9900 5500
+Wire Wire Line
+	10000 5500 9900 5500
+Wire Wire Line
+	10000 5500 10000 5663
+Wire Wire Line
+	10000 5663 10000 5838
+Wire Wire Line
+	10325 5838 10325 5663
+Wire Wire Line
+	10325 5663 10000 5663
+Connection ~ 9900 5500
+Connection ~ 10000 5500
+Connection ~ 10000 5663
+Text Label 9737 5200 0    10   ~ 0
+VCC
+Wire Wire Line
+	6800 4600 4938 4600
+Wire Wire Line
+	8487 3400 8337 3400
+Wire Wire Line
+	8337 3400 8200 3400
+Wire Wire Line
+	8487 3500 8200 3500
+Wire Wire Line
+	8200 3500 8200 3400
+Wire Wire Line
+	8200 3900 8200 3500
+Wire Wire Line
+	8200 3900 7500 3900
+Wire Wire Line
+	7500 3900 7500 2700
+Wire Wire Line
+	7500 2700 4938 2700
+Wire Wire Line
+	2900 3450 2788 3450
+Wire Wire Line
+	2788 3450 2788 2700
+Wire Wire Line
+	2788 2700 4938 2700
+Wire Wire Line
+	4938 2700 4938 4600
+Wire Wire Line
+	8200 3288 8200 3400
+Wire Wire Line
+	8337 3300 8337 3400
+Connection ~ 8200 3400
+Connection ~ 8200 3500
+Connection ~ 8200 3900
+Connection ~ 4938 2700
+Connection ~ 8337 3400
+Wire Wire Line
+	3468 5233 3468 5237
+Wire Wire Line
+	6775 4800 6775 4775
+Wire Wire Line
+	1600 5438 1375 5438
+Wire Wire Line
+	1375 5438 1375 4738
+Wire Wire Line
+	1375 4738 2350 4738
+Wire Wire Line
+	2350 4738 2350 5238
+Wire Wire Line
+	2350 5238 2200 5238
+Wire Wire Line
+	1600 5338 1475 5338
+Wire Wire Line
+	1475 5338 1475 4838
+Wire Wire Line
+	1475 4838 3275 4838
+Wire Wire Line
+	3275 5138 3275 4838
+Wire Wire Line
+	2200 5338 2875 5338
+Wire Wire Line
+	2875 5338 2875 5238
+Wire Wire Line
+	2875 5238 3275 5238
+Wire Wire Line
+	4475 5238 5600 5238
+Wire Wire Line
+	5600 5038 5600 5238
+Wire Wire Line
+	5600 5238 5600 5913
+Wire Wire Line
+	5600 5913 6687 5913
+Wire Wire Line
+	6687 6238 6687 5913
+Wire Wire Line
+	6687 5913 7900 5913
+Connection ~ 5600 5238
+Connection ~ 6687 5913
+Wire Wire Line
+	9500 5500 9300 5500
+Wire Wire Line
+	9300 5500 9162 5500
+Wire Wire Line
+	9162 5500 8975 5500
+Wire Wire Line
+	8700 5913 8975 5913
+Wire Wire Line
+	8975 5913 8975 5500
+Wire Wire Line
+	9337 5200 9162 5200
+Wire Wire Line
+	9162 5200 9162 5500
+Connection ~ 9300 5500
+Connection ~ 9162 5500
+Wire Wire Line
+	9300 6337 10000 6337
+Wire Wire Line
+	10000 6337 10000 6238
+Wire Wire Line
+	9300 6213 9300 6337
+Wire Wire Line
+	9300 6337 8700 6337
+Wire Wire Line
+	10325 6238 10325 6337
+Wire Wire Line
+	10325 6337 10000 6337
+Connection ~ 9300 6337
+Connection ~ 10000 6337
+Wire Wire Line
+	4475 5638 4575 5638
+Wire Wire Line
+	4575 5638 4575 5538
+Wire Wire Line
+	4575 5538 4775 5538
+Wire Wire Line
+	4775 5838 4475 5838
+Wire Wire Line
+	2200 5438 3075 5438
+Wire Wire Line
+	3075 5438 3075 5338
+Wire Wire Line
+	3075 5338 3275 5338
+Wire Wire Line
+	5600 1800 6100 1800
+Wire Wire Line
+	6100 1800 6100 1600
+Wire Wire Line
+	6100 1600 6600 1600
+Wire Wire Line
+	6600 1600 6600 1700
+Wire Wire Line
+	5600 2000 5900 2000
+Wire Wire Line
+	5900 2000 5900 2300
+Wire Wire Line
+	5900 2300 6600 2300
+Wire Wire Line
+	6600 2300 6600 2100
+Wire Wire Line
+	5700 1900 5900 1900
+Wire Wire Line
+	5900 1900 5900 2000
+Wire Wire Line
+	4475 5138 4700 5138
+Wire Wire Line
+	4700 5138 4700 3550
+Wire Wire Line
+	4700 3550 4300 3550
+Wire Wire Line
+	4300 3450 4813 3450
+Wire Wire Line
+	4813 3450 4813 4700
+Wire Wire Line
+	4813 4700 6800 4700
+Wire Wire Line
+	6800 4500 5250 4500
+Wire Wire Line
+	6800 4800 5250 4800
+Wire Wire Line
+	5250 4800 5250 4500
+Wire Wire Line
+	5250 4050 5250 4500
+Wire Wire Line
+	5475 4050 5250 4050
+Connection ~ 5250 4500
+Connection ~ 5250 4050
+Wire Wire Line
+	9325 3500 8887 3500
+Wire Wire Line
+	8837 2800 9325 2800
+Wire Wire Line
+	9325 2800 9500 2800
+Wire Wire Line
+	9325 2800 9325 3400
+Wire Wire Line
+	9325 3400 9325 3500
+Wire Wire Line
+	9325 3800 9325 3500
+Wire Wire Line
+	9200 3800 9325 3800
+Wire Wire Line
+	9200 4000 9325 4000
+Wire Wire Line
+	9325 4000 9325 3800
+Wire Wire Line
+	8887 3400 9325 3400
+Connection ~ 9325 2800
+Connection ~ 9325 3500
+Connection ~ 9325 3800
+Connection ~ 9325 3400
+Wire Wire Line
+	6400 3575 6400 4050
+Wire Wire Line
+	6150 4050 6400 4050
+Connection ~ 6400 4050
+Wire Wire Line
+	4688 3063 5525 3063
+Wire Wire Line
+	4688 3250 4688 3063
+Wire Wire Line
+	4300 3250 4688 3250
+Wire Wire Line
+	6600 5138 6800 5138
+Wire Wire Line
+	8300 4600 8700 4600
+Wire Wire Line
+	8700 4600 8700 5138
+Wire Wire Line
+	8700 5138 7725 5138
+Wire Wire Line
+	7725 5138 7600 5138
+Wire Wire Line
+	7725 5638 7725 5138
+Wire Wire Line
+	5363 5638 7725 5638
+Wire Wire Line
+	5363 5338 5363 5638
+Wire Wire Line
+	5425 6537 5363 6537
+Wire Wire Line
+	5363 6537 5363 6337
+Wire Wire Line
+	5425 6337 5363 6337
+Wire Wire Line
+	5363 6337 5363 5638
+Connection ~ 7725 5138
+Connection ~ 5363 5638
+Connection ~ 5363 6337
+Wire Wire Line
+	3225 1763 3725 1763
+Wire Wire Line
+	8400 1988 8400 1900
+Wire Wire Line
+	8200 1900 8400 1900
+Wire Wire Line
+	8612 1900 8400 1900
+Connection ~ 8400 1900
+Wire Wire Line
+	5675 4050 5950 4050
+Wire Wire Line
+	6425 6437 6687 6437
+Wire Wire Line
+	6700 6437 6687 6437
+Wire Wire Line
+	7687 6337 7900 6337
+Wire Wire Line
+	7287 1900 7287 2113
+Wire Wire Line
+	6800 1900 7287 1900
+Wire Wire Line
+	7400 1900 7287 1900
+Connection ~ 7287 1900
+Wire Wire Line
+	7512 4200 7312 4263
+Wire Wire Line
+	6325 3063 7312 3063
+Wire Wire Line
+	7312 3063 7312 3575
+Wire Wire Line
+	7200 3575 7312 3575
+Wire Wire Line
+	7312 3575 7312 4050
+Wire Wire Line
+	7200 4050 7312 4050
+Wire Wire Line
+	7312 4263 7312 4050
+Wire Wire Line
+	7312 4488 7312 4263
+Wire Wire Line
+	7500 4488 7512 4488
+Wire Wire Line
+	7500 4488 7475 4488
+Connection ~ 7312 3575
+Connection ~ 7312 4050
+Connection ~ 7312 4263
+Connection ~ 7475 4488
+Wire Wire Line
+	9987 6350 9987 6325
+Wire Wire Line
+	8637 2800 8337 2800
+Wire Wire Line
+	8337 2800 8200 2800
+Wire Wire Line
+	8200 2800 7900 2800
+Wire Wire Line
+	8337 2900 8337 2800
+Wire Wire Line
+	8200 2888 8200 2800
+Connection ~ 8337 2800
+Connection ~ 8200 2800
+$Comp
+L plc77-glitcher-eagle-import:7405 IC2
+U 1 1 65DD3EA4
+P 6800 3575
+F 0 "IC2" H 6775 3550 59  0000 L BNN
+F 1 "7405" H 6900 3375 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 6800 3575 50  0001 C CNN
+F 3 "" H 6800 3575 50  0001 C CNN
+	1    6800 3575
+	-1   0    0    1   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7405 IC2
+U 2 1 65DD3EA8
+P 6800 4050
+F 0 "IC2" H 6775 4025 59  0000 L BNN
+F 1 "7405" H 6900 3850 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 6800 4050 50  0001 C CNN
+F 3 "" H 6800 4050 50  0001 C CNN
+	2    6800 4050
+	-1   0    0    1   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7405 IC2
+U 3 1 65DD3EAC
+P 5925 3063
+F 0 "IC2" H 5900 3038 59  0000 L BNN
+F 1 "7405" H 6025 2863 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 5925 3063 50  0001 C CNN
+F 3 "" H 5925 3063 50  0001 C CNN
+	3    5925 3063
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7405 IC2
+U 4 1 65DD3EB0
+P 8300 5913
+F 0 "IC2" H 8275 5888 59  0000 L BNN
+F 1 "7405" H 8400 5713 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 8300 5913 50  0001 C CNN
+F 3 "" H 8300 5913 50  0001 C CNN
+	4    8300 5913
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7405 IC2
+U 5 1 65DD3EB4
+P 8300 6337
+F 0 "IC2" H 8275 6312 59  0000 L BNN
+F 1 "7405" H 8400 6137 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 8300 6337 50  0001 C CNN
+F 3 "" H 8300 6337 50  0001 C CNN
+	5    8300 6337
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7405 IC2
+U 6 1 65DD3EB8
+P 7200 5138
+F 0 "IC2" H 7175 5113 59  0000 L BNN
+F 1 "7405" H 7300 4938 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 7200 5138 50  0001 C CNN
+F 3 "" H 7200 5138 50  0001 C CNN
+	6    7200 5138
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7405 IC2
+U 7 1 65DD3EBC
+P 1725 3338
+F 0 "IC2" H 1700 3313 59  0000 L BNN
+F 1 "7405" H 1825 3138 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 1725 3338 50  0001 C CNN
+F 3 "" H 1725 3338 50  0001 C CNN
+	7    1725 3338
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:MAX232 IC3
+U 1 1 5ED25CA7
+P 3875 5738
+F 0 "IC3" H 3845 5708 59  0000 L BNN
+F 1 "MAX232" H 3475 4938 59  0001 L BNN
+F 2 "plc77-glitcher:DIL16" H 3875 5738 50  0001 C CNN
+F 3 "" H 3875 5738 50  0001 C CNN
+	1    3875 5738
+	-1   0    0    1   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:MAX232 IC3
+U 2 1 5ED25CAB
+P 1475 3363
+F 0 "IC3" H 1445 3333 59  0000 L BNN
+F 1 "MAX232" H 1075 2563 59  0001 L BNN
+F 2 "plc77-glitcher:DIL16" H 1475 3363 50  0001 C CNN
+F 3 "" H 1475 3363 50  0001 C CNN
+	2    1475 3363
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:HC49U-H Q1
+U 1 1 350F7409
+P 8737 2800
+F 0 "Q1" H 8637 2940 51  0000 L BNN
+F 1 "3.5795 MHZ" H 8437 2600 51  0000 L BNN
+F 2 "plc77-glitcher:HC49U-V" H 8737 2800 50  0001 C CNN
+F 3 "" H 8737 2800 50  0001 C CNN
+	1    8737 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:0204V R1
+U 1 1 64FD0967
+P 8687 3500
+F 0 "R1" H 8737 3666 51  0000 L BNN
+F 1 "1M" H 8862 3672 51  0000 L BNN
+F 2 "plc77-glitcher:1210" H 8687 3500 50  0001 C CNN
+F 3 "" H 8687 3500 50  0001 C CNN
+	1    8687 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:0204V R3
+U 1 1 83A6F2CB
+P 10000 6038
+F 0 "R3" V 10050 5892 51  0000 R TNN
+F 1 "470" V 9950 5923 51  0000 R TNN
+F 2 "plc77-glitcher:1210" H 10000 6038 50  0001 C CNN
+F 3 "" H 10000 6038 50  0001 C CNN
+	1    10000 6038
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$2
+U 1 1 A8B04D1A
+P 3175 6675
+F 0 "#U$2" H 3175 6675 50  0001 C CNN
+F 1 "GND" H 3100 6550 59  0000 L BNN
+F 2 "" H 3175 6675 50  0001 C CNN
+F 3 "" H 3175 6675 50  0001 C CNN
+	1    3175 6675
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:VCC #U$3
+U 1 1 54307519
+P 2875 6537
+F 0 "#U$3" H 2875 6537 50  0001 C CNN
+F 1 "VCC" H 2800 6662 59  0000 L BNN
+F 2 "" H 2875 6537 50  0001 C CNN
+F 3 "" H 2875 6537 50  0001 C CNN
+	1    2875 6537
+	-1   0    0    1   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$4
+U 1 1 84E86E02
+P 7900 3338
+F 0 "#U$4" H 7900 3338 50  0001 C CNN
+F 1 "GND" H 7825 3213 59  0000 L BNN
+F 2 "" H 7900 3338 50  0001 C CNN
+F 3 "" H 7900 3338 50  0001 C CNN
+	1    7900 3338
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$5
+U 1 1 6A689A17
+P 9500 3400
+F 0 "#U$5" H 9500 3400 50  0001 C CNN
+F 1 "GND" H 9425 3275 59  0000 L BNN
+F 2 "" H 9500 3400 50  0001 C CNN
+F 3 "" H 9500 3400 50  0001 C CNN
+	1    9500 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$6
+U 1 1 371C5F19
+P 2475 6437
+F 0 "#U$6" H 2475 6437 50  0001 C CNN
+F 1 "GND" H 2400 6312 59  0000 L BNN
+F 2 "" H 2475 6437 50  0001 C CNN
+F 3 "" H 2475 6437 50  0001 C CNN
+	1    2475 6437
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$8
+U 1 1 E90442EA
+P 8900 5000
+F 0 "#U$8" H 8900 5000 50  0001 C CNN
+F 1 "GND" H 8825 4875 59  0000 L BNN
+F 2 "" H 8900 5000 50  0001 C CNN
+F 3 "" H 8900 5000 50  0001 C CNN
+	1    8900 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$9
+U 1 1 9B8BA149
+P 8400 2525
+F 0 "#U$9" H 8400 2525 50  0001 C CNN
+F 1 "GND" H 8325 2400 59  0000 L BNN
+F 2 "" H 8400 2525 50  0001 C CNN
+F 3 "" H 8400 2525 50  0001 C CNN
+	1    8400 2525
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:VCC #U$10
+U 1 1 9B2F7804
+P 9337 1800
+F 0 "#U$10" H 9337 1800 50  0001 C CNN
+F 1 "VCC" H 9262 1925 59  0000 L BNN
+F 2 "" H 9337 1800 50  0001 C CNN
+F 3 "" H 9337 1800 50  0001 C CNN
+	1    9337 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:78XXT U1
+U 1 1 396AE7CC
+P 7800 1900
+F 0 "U1" H 7500 2125 59  0000 L BNN
+F 1 "7805T" H 7500 2025 59  0000 L BNN
+F 2 "plc77-glitcher:TO220H" H 7800 1900 50  0001 C CNN
+F 3 "" H 7800 1900 50  0001 C CNN
+	1    7800 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$11
+U 1 1 283E49E7
+P 7800 2400
+F 0 "#U$11" H 7800 2400 50  0001 C CNN
+F 1 "GND" H 7725 2275 59  0000 L BNN
+F 2 "" H 7800 2400 50  0001 C CNN
+F 3 "" H 7800 2400 50  0001 C CNN
+	1    7800 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$12
+U 1 1 CB8F9854
+P 9037 2488
+F 0 "#U$12" H 9037 2488 50  0001 C CNN
+F 1 "GND" H 8962 2363 59  0000 L BNN
+F 2 "" H 9037 2488 50  0001 C CNN
+F 3 "" H 9037 2488 50  0001 C CNN
+	1    9037 2488
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$13
+U 1 1 777B985C
+P 7200 2600
+F 0 "#U$13" H 7200 2600 50  0001 C CNN
+F 1 "GND" H 7125 2475 59  0000 L BNN
+F 2 "" H 7200 2600 50  0001 C CNN
+F 3 "" H 7200 2600 50  0001 C CNN
+	1    7200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:GND #U$14
+U 1 1 491AF09A
+P 6200 2000
+F 0 "#U$14" H 6200 2000 50  0001 C CNN
+F 1 "GND" H 6125 1875 59  0000 L BNN
+F 2 "" H 6200 2000 50  0001 C CNN
+F 3 "" H 6200 2000 50  0001 C CNN
+	1    6200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:LED2 D1
+U 1 1 0B55EC86
+P 9300 6013
+F 0 "D1" H 9100 6013 51  0000 L BNN
+F 1 "Red/Grn LED" H 9300 6038 51  0000 L BNN
+F 2 "plc77-glitcher:LED2" H 9300 6013 50  0001 C CNN
+F 3 "" H 9300 6013 50  0001 C CNN
+	1    9300 6013
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:CHEAPREADR CDR1
+U 1 1 054EB804
+P 7500 4700
+F 0 "CDR1" H 7500 4700 50  0001 C CNN
+F 1 "CHEAPREADR" H 7500 4700 50  0001 C CNN
+F 2 "plc77-glitcher:CHEAPREA" H 7500 4700 50  0001 C CNN
+F 3 "" H 7500 4700 50  0001 C CNN
+	1    7500 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:VCC #U$1
+U 1 1 BABD3B23
+P 5250 3300
+F 0 "#U$1" H 5250 3300 50  0001 C CNN
+F 1 "VCC" H 5175 3425 59  0000 L BNN
+F 2 "" H 5250 3300 50  0001 C CNN
+F 3 "" H 5250 3300 50  0001 C CNN
+	1    5250 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:RB1A B1
+U 1 1 EEC38228
+P 6600 1900
+F 0 "B1" H 6800 2000 51  0000 L BNN
+F 1 "RB1A" H 6800 1700 51  0000 L BNN
+F 2 "plc77-glitcher:RB1A" H 6600 1900 50  0001 C CNN
+F 3 "" H 6600 1900 50  0001 C CNN
+	1    6600 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:C2,5 C1
+U 1 1 8A56218C
+P 7287 2313
+F 0 "C1" V 7487 2438 51  0000 L BNN
+F 1 ".1uf" V 7387 2428 51  0000 L BNN
+F 2 "plc77-glitcher:C5B3" H 7287 2313 50  0001 C CNN
+F 3 "" H 7287 2313 50  0001 C CNN
+	1    7287 2313
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:C2,5 C3
+U 1 1 A13C8757
+P 9037 2200
+F 0 "C3" V 9137 1925 51  0000 L BNN
+F 1 ".1uf" V 9037 1915 51  0000 L BNN
+F 2 "plc77-glitcher:C5B3" H 9037 2200 50  0001 C CNN
+F 3 "" H 9037 2200 50  0001 C CNN
+	1    9037 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:C2,5 C5
+U 1 1 4D724D88
+P 9500 3000
+F 0 "C5" V 9700 2925 51  0000 R TNN
+F 1 "27pf" V 9425 2928 51  0000 R TNN
+F 2 "plc77-glitcher:C5B3" H 9500 3000 50  0001 C CNN
+F 3 "" H 9500 3000 50  0001 C CNN
+	1    9500 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:C2,5 C4
+U 1 1 9C2C672D
+P 7900 3000
+F 0 "C4" V 8000 3125 51  0000 L BNN
+F 1 "27pf" V 7900 3115 51  0000 L BNN
+F 2 "plc77-glitcher:C5B3" H 7900 3000 50  0001 C CNN
+F 3 "" H 7900 3000 50  0001 C CNN
+	1    7900 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:E2,0-5 C6
+U 1 1 C3D30544
+P 2875 6038
+F 0 "C6" V 2920 5757 51  0000 L BNN
+F 1 "10uf" V 3020 5757 51  0000 L BNN
+F 2 "plc77-glitcher:E2,0-5" H 2875 6038 50  0001 C CNN
+F 3 "" H 2875 6038 50  0001 C CNN
+	1    2875 6038
+	0    1    1    0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:E2,0-5 C8
+U 1 1 5FABFDB8
+P 3175 6337
+F 0 "C8" V 3219 6256 51  0000 R TNN
+F 1 "10uf" V 3120 6056 51  0000 L BNN
+F 2 "plc77-glitcher:E2,0-5" H 3175 6337 50  0001 C CNN
+F 3 "" H 3175 6337 50  0001 C CNN
+	1    3175 6337
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:E2,0-5 C9
+U 1 1 1A5CAE6C
+P 4775 5638
+F 0 "C9" V 4720 5857 51  0000 R TNN
+F 1 "10uf" V 4920 5757 51  0000 L BNN
+F 2 "plc77-glitcher:E2,0-5" H 4775 5638 50  0001 C CNN
+F 3 "" H 4775 5638 50  0001 C CNN
+	1    4775 5638
+	0    1    1    0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:E2,0-5 C10
+U 1 1 822F2B63
+P 4800 6138
+F 0 "C10" V 4845 6257 51  0000 L BNN
+F 1 "10uf" V 4945 6257 51  0000 L BNN
+F 2 "plc77-glitcher:E2,0-5" H 4800 6138 50  0001 C CNN
+F 3 "" H 4800 6138 50  0001 C CNN
+	1    4800 6138
+	0    1    1    0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:E2,0-5 C2
+U 1 1 1B574E5D
+P 8400 2188
+F 0 "C2" V 8545 2307 51  0000 L BNN
+F 1 "35uf" V 8445 2307 51  0000 L BNN
+F 2 "plc77-glitcher:E2,0-5" H 8400 2188 50  0001 C CNN
+F 3 "" H 8400 2188 50  0001 C CNN
+	1    8400 2188
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:POWER1 U$7
+U 1 1 27EAC7D0
+P 5600 1800
+F 0 "U$7" H 5600 1800 50  0001 C CNN
+F 1 "POWER1" H 5600 1800 50  0001 C CNN
+F 2 "plc77-glitcher:POWER1" H 5600 1800 50  0001 C CNN
+F 3 "" H 5600 1800 50  0001 C CNN
+	1    5600 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:0204_5 R4
+U 1 1 3D78F112
+P 9700 5500
+F 0 "R4" H 9550 5554 51  0000 L BNN
+F 1 "470" H 9550 5385 51  0000 L BNN
+F 2 "plc77-glitcher:1210@2" H 9700 5500 50  0001 C CNN
+F 3 "" H 9700 5500 50  0001 C CNN
+	1    9700 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:VCC #U$15
+U 1 1 D0458224
+P 10000 5400
+F 0 "#U$15" H 10000 5400 50  0001 C CNN
+F 1 "VCC" H 9925 5525 59  0000 L BNN
+F 2 "" H 10000 5400 50  0001 C CNN
+F 3 "" H 10000 5400 50  0001 C CNN
+	1    10000 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:AT90S2313P IC1
+U 1 1 06F92037
+P 3600 3750
+F 0 "IC1" H 3100 4680 59  0000 L BNN
+F 1 "AT90S2313P" H 3100 2850 59  0000 L BNN
+F 2 "plc77-glitcher:DIL20" H 3600 3750 50  0001 C CNN
+F 3 "" H 3600 3750 50  0001 C CNN
+	1    3600 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-US_0207_10 R2
+U 1 1 3A85EE58
+P 5250 3850
+F 0 "R2" H 5100 3909 59  0000 L BNN
+F 1 "R-US_0207_10" H 5100 3720 59  0000 L BNN
+F 2 "plc77-glitcher:0207_10" H 5250 3850 50  0001 C CNN
+F 3 "" H 5250 3850 50  0001 C CNN
+	1    5250 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7400N IC4
+U 1 1 1F5391E5
+P 7187 6337
+F 0 "IC4" H 7162 6312 59  0000 L BNN
+F 1 "74HC00N" H 6887 6037 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 7187 6337 50  0001 C CNN
+F 3 "" H 7187 6337 50  0001 C CNN
+	1    7187 6337
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7400N IC4
+U 2 1 1F5391E9
+P 6100 5138
+F 0 "IC4" H 6075 5113 59  0000 L BNN
+F 1 "74HC00N" H 5800 4838 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 6100 5138 50  0001 C CNN
+F 3 "" H 6100 5138 50  0001 C CNN
+	2    6100 5138
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7400N IC4
+U 3 1 1F5391ED
+P 8700 3900
+F 0 "IC4" H 8400 4125 59  0000 L BNN
+F 1 "74HC00N" H 8400 3600 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 8700 3900 50  0001 C CNN
+F 3 "" H 8700 3900 50  0001 C CNN
+	3    8700 3900
+	-1   0    0    1   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7400N IC4
+U 4 1 1F5391F1
+P 5925 6437
+F 0 "IC4" H 5900 6412 59  0000 L BNN
+F 1 "74HC00N" H 5625 6137 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 5925 6437 50  0001 C CNN
+F 3 "" H 5925 6437 50  0001 C CNN
+	4    5925 6437
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:7400N IC4
+U 5 1 1F5391F5
+P 2000 3338
+F 0 "IC4" H 1975 3313 59  0000 L BNN
+F 1 "74HC00N" H 1700 3038 59  0001 L BNN
+F 2 "plc77-glitcher:DIL14" H 2000 3338 50  0001 C CNN
+F 3 "" H 2000 3338 50  0001 C CNN
+	5    2000 3338
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:VCC #V1
+U 1 1 D47A89D4
+P 2200 2400
+F 0 "#V1" H 2200 2400 50  0001 C CNN
+F 1 "VCC" H 2125 2525 59  0000 L BNN
+F 2 "" H 2200 2400 50  0001 C CNN
+F 3 "" H 2200 2400 50  0001 C CNN
+	1    2200 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:FLOPPY-4 J1
+U 1 1 2CE6A523
+P 3125 1863
+F 0 "J1" H 3025 2153 59  0000 L BNN
+F 1 "FLOPPY-4" H 3025 1623 59  0000 L BNN
+F 2 "plc77-glitcher:FLOPPY-4" H 3125 1863 50  0001 C CNN
+F 3 "" H 3125 1863 50  0001 C CNN
+	1    3125 1863
+	-1   0    0    1   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:1N4004 D2
+U 1 1 20478EC3
+P 3825 1763
+F 0 "D2" H 3925 1782 59  0000 L BNN
+F 1 "1N4004" H 3925 1672 59  0000 L BNN
+F 2 "plc77-glitcher:DO41-10" H 3825 1763 50  0001 C CNN
+F 3 "" H 3825 1763 50  0001 C CNN
+	1    3825 1763
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:1N4004 D3
+U 1 1 39967F7A
+P 8712 1900
+F 0 "D3" H 8812 1919 59  0000 L BNN
+F 1 "1N4004" H 8812 1809 59  0000 L BNN
+F 2 "plc77-glitcher:DO41-10" H 8712 1900 50  0001 C CNN
+F 3 "" H 8712 1900 50  0001 C CNN
+	1    8712 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:VCC #V2
+U 1 1 67DD302B
+P 4463 1663
+F 0 "#V2" H 4463 1663 50  0001 C CNN
+F 1 "VCC" H 4388 1788 59  0000 L BNN
+F 2 "" H 4463 1663 50  0001 C CNN
+F 3 "" H 4463 1663 50  0001 C CNN
+	1    4463 1663
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:1N4148 D4
+U 1 1 DCE5EB0D
+P 5575 4050
+F 0 "D4" H 5675 4069 59  0000 L BNN
+F 1 "1N4148" H 5675 3959 59  0000 L BNN
+F 2 "plc77-glitcher:DO35-10" H 5575 4050 50  0001 C CNN
+F 3 "" H 5575 4050 50  0001 C CNN
+	1    5575 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:1N4148 D5
+U 1 1 73B70CE6
+P 6050 4050
+F 0 "D5" H 6150 4069 59  0000 L BNN
+F 1 "1N4148" H 6150 3959 59  0000 L BNN
+F 2 "plc77-glitcher:DO35-10" H 6050 4050 50  0001 C CNN
+F 3 "" H 6050 4050 50  0001 C CNN
+	1    6050 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-EU_R2010 R5
+U 1 1 BC5DC3D2
+P 7712 4200
+F 0 "R5" H 7562 4259 59  0000 L BNN
+F 1 "R-EU_R2010" H 7562 4070 59  0000 L BNN
+F 2 "plc77-glitcher:R2010" H 7712 4200 50  0001 C CNN
+F 3 "" H 7712 4200 50  0001 C CNN
+	1    7712 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:VCC #V3
+U 1 1 324D53EC
+P 8075 4163
+F 0 "#V3" H 8075 4163 50  0001 C CNN
+F 1 "VCC" H 8000 4288 59  0000 L BNN
+F 2 "" H 8075 4163 50  0001 C CNN
+F 3 "" H 8075 4163 50  0001 C CNN
+	1    8075 4163
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-EU_0204_7 R6
+U 1 1 2DDEC18F
+P 9537 5200
+F 0 "R6" H 9387 5259 59  0000 L BNN
+F 1 "R-EU_0204_7" H 9387 5070 59  0000 L BNN
+F 2 "plc77-glitcher:0204_7" H 9537 5200 50  0001 C CNN
+F 3 "" H 9537 5200 50  0001 C CNN
+	1    9537 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-EU_0204_7 R7
+U 1 1 D7380F0A
+P 10325 6038
+F 0 "R7" H 10175 6097 59  0000 L BNN
+F 1 "R-EU_0204_7" H 10175 5908 59  0000 L BNN
+F 2 "plc77-glitcher:0204_7" H 10325 6038 50  0001 C CNN
+F 3 "" H 10325 6038 50  0001 C CNN
+	1    10325 6038
+	0    1    1    0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-EU_0204_7 R8
+U 1 1 FAE95852
+P 7700 4488
+F 0 "R8" H 7550 4547 59  0000 L BNN
+F 1 "R-EU_0204_7" H 7550 4358 59  0000 L BNN
+F 2 "plc77-glitcher:0204_7" H 7700 4488 50  0001 C CNN
+F 3 "" H 7700 4488 50  0001 C CNN
+	1    7700 4488
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-EU_0204_7 R9
+U 1 1 E6DB434F
+P 8687 3400
+F 0 "R9" H 8737 3546 59  0000 L BNN
+F 1 "R-EU_0204_7" H 8537 3270 59  0000 L BNN
+F 2 "plc77-glitcher:0204_7" H 8687 3400 50  0001 C CNN
+F 3 "" H 8687 3400 50  0001 C CNN
+	1    8687 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:F09HP X1
+U 1 1 753049C4
+P 1900 5338
+F 0 "X1" H 1750 5688 59  0000 L BNN
+F 1 "F09HP" H 1750 4913 59  0000 L BNN
+F 2 "plc77-glitcher:F09HP" H 1900 5338 50  0001 C CNN
+F 3 "" H 1900 5338 50  0001 C CNN
+	1    1900 5338
+	-1   0    0    1   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-US_0204_7 R10
+U 1 1 B13F576F
+P 8337 3100
+F 0 "R10" V 8412 2834 59  0000 L BNN
+F 1 "R-US_0204_7" H 8187 2970 59  0000 L BNN
+F 2 "plc77-glitcher:0204_7" H 8337 3100 50  0001 C CNN
+F 3 "" H 8337 3100 50  0001 C CNN
+	1    8337 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L plc77-glitcher-eagle-import:R-US_M1206 R11
+U 1 1 63032C54
+P 8200 3088
+F 0 "R11" V 8175 2710 59  0000 L BNN
+F 1 "2.2k" V 8100 2696 59  0000 L BNN
+F 2 "plc77-glitcher:M1206" H 8200 3088 50  0001 C CNN
+F 3 "" H 8200 3088 50  0001 C CNN
+	1    8200 3088
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7900 4488 8075 4488
+Wire Wire Line
+	9300 5500 9300 5913
+Wire Wire Line
+	4475 5338 5363 5338
+Wire Wire Line
+	7312 4488 7500 4488
+$EndSCHEMATC
