@@ -388,6 +388,11 @@
       (net 21 N$29) (solder_mask_margin 0.1524))
     (pad 1 thru_hole circle (at -2.413 0 270) (size 1.6002 1.6002) (drill 0.8128) (layers *.Cu *.Mask)
       (net 34 N$8) (solder_mask_margin 0.1524))
+    (model ./Crystal.3dshapes/Crystal_HC49-U_Vertical.step
+      (offset (xyz -2.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module 1210 (layer Bottom) (tedit 0) (tstamp 613A1B80)
@@ -472,6 +477,11 @@
       (net 1 GND) (solder_mask_margin 0.1524))
     (pad 1 thru_hole oval (at -2.54 10.16 180) (size 3.3528 1.6764) (drill 1.1176) (layers *.Cu *.Mask)
       (net 31 N$15) (solder_mask_margin 0.1524))
+    (model ./Package_TO_SOT_THT.3dshapes/TO-220-3_Horizontal_TabDown.wrl
+      (offset (xyz -2.5 -11.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module LED2 (layer Top) (tedit 0) (tstamp 613A1BB7)
@@ -597,6 +607,11 @@
       (net 17 N$25) (solder_mask_margin 0.1524))
     (pad + thru_hole circle (at -2.54 -2.54 180) (size 2.159 2.159) (drill 1.016) (layers *.Cu *.Mask)
       (net 31 N$15) (solder_mask_margin 0.1524))
+    (model ./Diode_THT.3dshapes/Diode_Bridge_Round_D9.0mm.wrl
+      (offset (xyz -2.5 2.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module C5B3 (layer Top) (tedit 0) (tstamp 613A1C0A)
@@ -625,6 +640,11 @@
       (net 31 N$15) (solder_mask_margin 0.1524))
     (pad 1 thru_hole circle (at -2.54 0 270) (size 1.6002 1.6002) (drill 0.8128) (layers *.Cu *.Mask)
       (net 1 GND) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Disc_D7.5mm_W2.5mm_P5.00mm.wrl
+      (offset (xyz -2.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module C5B3 (layer Top) (tedit 0) (tstamp 613A1C1D)
@@ -653,6 +673,11 @@
       (net 2 VCC) (solder_mask_margin 0.1524))
     (pad 1 thru_hole circle (at -2.54 0 90) (size 1.6002 1.6002) (drill 0.8128) (layers *.Cu *.Mask)
       (net 1 GND) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Disc_D7.5mm_W2.5mm_P5.00mm.wrl
+      (offset (xyz -2.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module C5B3 (layer Top) (tedit 0) (tstamp 613A1C30)
@@ -681,6 +706,11 @@
       (net 21 N$29) (solder_mask_margin 0.1524))
     (pad 1 thru_hole circle (at -2.54 0) (size 1.6002 1.6002) (drill 0.8128) (layers *.Cu *.Mask)
       (net 1 GND) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Disc_D7.5mm_W2.5mm_P5.00mm.wrl
+      (offset (xyz -2.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module C5B3 (layer Top) (tedit 0) (tstamp 613A1C43)
@@ -709,6 +739,11 @@
       (net 34 N$8) (solder_mask_margin 0.1524))
     (pad 1 thru_hole circle (at -2.54 0) (size 1.6002 1.6002) (drill 0.8128) (layers *.Cu *.Mask)
       (net 1 GND) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Disc_D7.5mm_W2.5mm_P5.00mm.wrl
+      (offset (xyz -2.5 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module E2,0-5 (layer Top) (tedit 0) (tstamp 613A1C56)
@@ -734,6 +769,11 @@
       (net 5 N$6) (solder_mask_margin 0.1524))
     (pad + thru_hole oval (at -0.9525 0 90) (size 2.54 1.27) (drill 0.8128) (layers *.Cu *.Mask)
       (net 2 VCC) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step
+      (offset (xyz -0.75 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module E2,0-5 (layer Top) (tedit 0) (tstamp 613A1C66)
@@ -759,6 +799,11 @@
       (net 1 GND) (solder_mask_margin 0.1524))
     (pad + thru_hole oval (at -0.9525 0 90) (size 2.54 1.27) (drill 0.8128) (layers *.Cu *.Mask)
       (net 6 N$7) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step
+      (offset (xyz -0.75 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module E2,0-5 (layer Top) (tedit 0) (tstamp 613A1C76)
@@ -784,6 +829,11 @@
       (net 14 N$1) (solder_mask_margin 0.1524))
     (pad + thru_hole oval (at -0.9525 0 270) (size 2.54 1.27) (drill 0.8128) (layers *.Cu *.Mask)
       (net 15 N$5) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step
+      (offset (xyz -0.75 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module E2,0-5 (layer Top) (tedit 0) (tstamp 613A1C86)
@@ -809,6 +859,11 @@
       (net 3 N$3) (solder_mask_margin 0.1524))
     (pad + thru_hole oval (at -0.9525 0 270) (size 2.54 1.27) (drill 0.8128) (layers *.Cu *.Mask)
       (net 4 N$4) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step
+      (offset (xyz -0.75 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module E2,0-5 (layer Top) (tedit 0) (tstamp 613A1C96)
@@ -834,6 +889,11 @@
       (net 1 GND) (solder_mask_margin 0.1524))
     (pad + thru_hole oval (at -0.9525 0) (size 2.54 1.27) (drill 0.8128) (layers *.Cu *.Mask)
       (net 27 N$41) (solder_mask_margin 0.1524))
+    (model ./Capacitor_THT.3dshapes/C_Radial_D4.0mm_H5.0mm_P1.50mm.step
+      (offset (xyz -0.75 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (module POWER1 (layer Top) (tedit 0) (tstamp 613A1CA6)
@@ -1293,7 +1353,7 @@
   (module 0204_7 (layer Top) (tedit 0) (tstamp 613A1DC5)
     (at 160.2536 131.9911 270)
     (descr "<b>RESISTOR</b><p>\ntype 0204, grid 7.5 mm")
-    (fp_text reference R7 (at -2.54 -1.5494 270) (layer F.SilkS)
+    (fp_text reference R7 (at 5.1689 -0.4014) (layer F.SilkS)
       (effects (font (size 0.94107 0.94107) (thickness 0.118872)) (justify right top))
     )
     (fp_text value "" (at -1.6256 0.4826 270) (layer F.Fab)
@@ -1636,7 +1696,7 @@
   (gr_text "Glitching Programer" (at 171.45 65.405) (layer F.SilkS) (tstamp 20DE3340)
     (effects (font (size 2.07518 2.07518) (thickness 0.174752)) (justify left bottom))
   )
-  (gr_text "Easier to build Layout B.\nRedrawn in Kicad by T. Goodspeed." (at 147.955 151.765) (layer F.SilkS) (tstamp 2006A630)
+  (gr_text "Redrawn in Kicad by T. Goodspeed in 2021.\nBased on a design by PLC77 in 2001." (at 132.715 151.765) (layer F.SilkS) (tstamp 2006A630)
     (effects (font (size 2.07518 2.07518) (thickness 0.174752)) (justify left bottom))
   )
   (gr_text "To disable glitching" (at 195.8136 83.82 -90) (layer B.SilkS) (tstamp 1F2541D0)
