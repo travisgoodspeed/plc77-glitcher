@@ -7,9 +7,10 @@ through-hole components being used to glitch smart cards and freely
 watch TV.
 
 As Tripod begins to bitrot and this history slowly becomes lost to us,
-I thought I'd grab an old glitcher from a Tripod website, convert it
-to Kicad, and maybe assemble a few glitchers from that age.  This one
-is by LPC77, dating from April of 2001.
+I thought I'd grab an old glitcher from a [Tripod
+website](http://dark-agent_drdss.tripod.com/drdss/id7.html), convert
+it to Kicad, and maybe assemble a few glitchers from that age.  This
+one is by LPC77, dating from April of 2001.
 
 --Travis
 
@@ -23,3 +24,4 @@ The `past` directory contains the published source files, originally
 in Eagle's old binary format.  I used Eagle 6.6.0 under Wine to
 convert the files into the modern XML format, which Kicad can freely
 import.
+
