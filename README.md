@@ -14,6 +14,8 @@ one is by LPC77, dating from April of 2001.
 
 --Travis
 
+![Glitcher Photograph](plc77-glitcher.png)
+
 ## Organization
 
 The root directory is a [Kicad](https://www.kicad.org/) project,
